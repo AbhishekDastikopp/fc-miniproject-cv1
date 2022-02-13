@@ -1,0 +1,53 @@
+body{
+  background-color:  #F3C5C5;
+
+}
+
+h1{
+  color: #694E4E;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  font-size: 1em;
+}
+hr{
+  margin-top: 0.5%;
+  margin-bottom: 1%;
+  margin-left: 25%;
+  margin-right: 20%;
+  width: 50%;
+  border-style: none;
+  border-top-style: double;
+  border-width: 5px;
+
+  color: #000000;
+}
+
+form{
+ color: #19282F;
+ font-size: 20px;
+}
+
+input{
+  background-color: #AEFEFF;
+  border-width: 2.5px;
+  color: #03045E;
+  border-color: #362222;
+  margin: 7px;
+}
+
+textarea{
+  background-color: #BAFFB4;
+}
+
+/* input[type=button]{
+  background-color: #9C0F48 ;
+  cursor : pointer;
+} */
+
+button{
+  background-color: #219F94 ;
+  cursor : pointer;
+}
